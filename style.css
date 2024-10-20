@@ -97,3 +97,13 @@ nav ul li a {
     justify-content: center;
     align-items: center;
 }
+
+.signup-btn {
+    background-color: var(--button-background-color);
+    color: white;
+    font-size: 18px;
+    font-weight: 900;
+    padding: 8px 32px;
+    border: 0;
+    border-radius: 8px;
+}
