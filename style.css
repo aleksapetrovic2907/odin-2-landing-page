@@ -77,6 +77,11 @@ nav ul li a {
     color: var(--hero-main-text-color);
 }
 
+.main p {
+    font-size: var(--hero-secondary-text-size);
+    color: var(--hero-secondary-text-color);
+}
+
 .placeholder-image {
     background-color: var(--quote-section-background-color);
     flex: 1;
