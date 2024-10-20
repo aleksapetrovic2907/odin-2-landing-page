@@ -21,6 +21,8 @@
     --information-header-text-size: 36px;
     --information-header-text-weight: 900;
 
+    --dark-grey: rgb(78, 78, 78);
+
     font-family: var(--main-font);
 }
 
@@ -129,6 +131,10 @@ nav ul li a {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.illustration-card p {
+    color: var(--dark-grey);
 }
 
 .illustration {
