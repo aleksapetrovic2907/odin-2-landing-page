@@ -18,6 +18,8 @@
     --information-header-text-color: #1F2937;
     --information-header-text-size: 36px;
     --information-header-text-weight: 900;
+
+    font-family: var(--main-font);
 }
 
 a {
