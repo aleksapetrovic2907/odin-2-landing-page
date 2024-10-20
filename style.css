@@ -62,3 +62,15 @@ nav ul li a {
     color: var(--header-logo-text-color);
     font-size: 24px;
 }
+
+.main-container {
+    display: flex;
+}
+
+.main {
+    flex: 1;
+}
+
+.placeholder-image {
+    flex: 1;
+}
