@@ -108,3 +108,8 @@ nav ul li a {
     border: 0;
     border-radius: 8px;
 }
+
+.information-container {
+    padding: 18px 20%;   
+    text-align: center;
+}
