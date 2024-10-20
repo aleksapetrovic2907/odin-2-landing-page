@@ -71,6 +71,12 @@ nav ul li a {
     flex: 1;
 }
 
+.main h1 {
+    font-size: var(--hero-main-text-size);
+    font-weight: var(--hero-main-text-weight);
+    color: var(--hero-main-text-color);
+}
+
 .placeholder-image {
     background-color: var(--quote-section-background-color);
     flex: 1;
