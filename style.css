@@ -69,6 +69,7 @@ nav ul li a {
 .main-container {
     display: flex;
     padding: 100px 0;
+    gap: 48px;
 }
 
 .main {
