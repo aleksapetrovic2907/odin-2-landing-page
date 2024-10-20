@@ -1,3 +1,25 @@
+:root {
+    --main-font: 'Roboto', sans-serif;
+
+    --dark-background-color: #1F2937;
+    --quote-section-background-color: #E5E7EB;
+    --quote-text-color: #1F2937;
+    --button-background-color: #3882F6;
+
+    --header-logo-text-color: #F9FAF8;
+    
+    --hero-main-text-color: #F9FAF8;
+    --hero-main-text-size: 48px;
+    --hero-main-text-weight: 900;
+
+    --hero-secondary-text-color: #E5E7EB;
+    --hero-secondary-text-size: 18px;
+
+    --information-header-text-color: #1F2937;
+    --information-header-text-size: 36px;
+    --information-header-text-weight: 900;
+}
+
 a {
     text-decoration: none;
 }
