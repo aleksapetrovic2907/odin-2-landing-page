@@ -72,6 +72,10 @@ nav ul li a {
     flex: 1;
 }
 
+.main * {
+    margin: 8px 0;
+}
+
 .main h1 {
     font-size: var(--hero-main-text-size);
     font-weight: var(--hero-main-text-weight);
