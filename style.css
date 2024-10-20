@@ -73,4 +73,5 @@ nav ul li a {
 
 .placeholder-image {
     flex: 1;
+    background-color: var(--quote-section-background-color);
 }
