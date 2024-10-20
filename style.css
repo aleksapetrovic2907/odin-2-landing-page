@@ -24,6 +24,10 @@ a {
     text-decoration: none;
 }
 
+header {
+    background-color: var(--dark-background-color);
+}
+
 nav {
     display: flex;
     justify-content: space-between;
