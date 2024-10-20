@@ -54,6 +54,10 @@ nav ul li {
     list-style-type: none;
 }
 
+nav ul li a {
+    color: var(--hero-secondary-text-color);
+}
+
 .logo {
     color: var(--header-logo-text-color);
     font-size: 24px;
