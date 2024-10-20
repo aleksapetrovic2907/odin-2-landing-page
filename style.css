@@ -34,6 +34,7 @@ a {
 
 header {
     background-color: var(--dark-background-color);
+    padding: 8px 12.5%;
 }
 
 nav {
