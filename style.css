@@ -72,6 +72,9 @@ nav ul li a {
 }
 
 .placeholder-image {
-    flex: 1;
     background-color: var(--quote-section-background-color);
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
