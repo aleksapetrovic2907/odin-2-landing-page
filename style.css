@@ -113,3 +113,8 @@ nav ul li a {
     padding: 18px 20%;   
     text-align: center;
 }
+
+.illustration-cards-container {
+    display: flex;
+    gap: 12px;
+}
