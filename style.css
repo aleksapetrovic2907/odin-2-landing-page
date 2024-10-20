@@ -42,3 +42,8 @@ nav ul {
 nav ul li {
     list-style-type: none;
 }
+
+.logo {
+    color: var(--header-logo-text-color);
+    font-size: 24px;
+}
