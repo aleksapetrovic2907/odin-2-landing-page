@@ -119,6 +119,12 @@ nav ul li a {
     gap: 12px;
 }
 
+.illustration-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .illustration {
     height: 150px;
     width: 150px;
