@@ -160,3 +160,7 @@ nav ul li a {
     font-size: 36px;
     font-weight: 200;
 }
+
+.quote-container p {
+    font-weight: bold;
+}
