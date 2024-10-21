@@ -166,6 +166,10 @@ nav ul li a {
     align-self: flex-end;
 }
 
+.cta-container {
+    padding: 96px 12.5%;
+}
+
 .cta {
     background-color: var(--button-background-color);
 }
