@@ -157,4 +157,5 @@ nav ul li a {
 
 .quote-container em {
     color: var(--quote-text-color);
+    font-size: 36px;
 }
