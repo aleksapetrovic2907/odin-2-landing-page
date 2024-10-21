@@ -154,3 +154,7 @@ nav ul li a {
     justify-content: center;
     align-items: center;
 }
+
+.quote-container em {
+    color: var(--quote-text-color);
+}
