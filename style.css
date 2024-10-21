@@ -120,6 +120,7 @@ nav ul li a {
     font-size: var(--information-header-text-size);
     font-weight: var(--information-header-text-weight);
     color: var(--information-header-text-color);
+    margin: 0 0 48px 0;
 }
 
 .illustration-cards-container {
