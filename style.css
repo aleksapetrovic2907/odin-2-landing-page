@@ -165,3 +165,7 @@ nav ul li a {
     font-weight: bold;
     align-self: flex-end;
 }
+
+.cta {
+    background-color: var(--button-background-color);
+}
