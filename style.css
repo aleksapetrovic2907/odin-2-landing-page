@@ -180,8 +180,10 @@ nav ul li a {
 
 .cta h3 {
     margin: 0;
+    color: var(--hero-main-text-color);
 }
 
 .cta p {
     margin: 0;
+    color: var(--hero-secondary-text-color);
 }
