@@ -172,4 +172,5 @@ nav ul li a {
 
 .cta {
     background-color: var(--button-background-color);
+    border-radius: 6px;
 }
