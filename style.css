@@ -163,4 +163,5 @@ nav ul li a {
 
 .quote-container p {
     font-weight: bold;
+    align-self: flex-end;
 }
