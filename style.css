@@ -144,3 +144,13 @@ nav ul li a {
     border: 3px solid var(--button-background-color);
     border-radius: 16px;
 }
+
+.quote-container {
+    background-color: var(--quote-section-background-color);
+    padding: 48px 20%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
