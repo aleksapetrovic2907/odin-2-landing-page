@@ -176,3 +176,11 @@ nav ul li a {
     display: flex;
     justify-content: space-between;
 }
+
+.cta h3 {
+    margin: 0;
+}
+
+.cta p {
+    margin: 0;
+}
